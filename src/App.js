@@ -6,11 +6,11 @@ import './style.css';
 
 function App() {
     const jokeComponents = jokesData.map(joke => <Joke key={joke.id} question={joke.question} punchLine={joke.punchLine} />)
-    
+
     return (
-        <div>   
-            <h1>Piadócas.......</h1>
-            {jokeComponents}           
+        <div>
+            <h1>Piadas.......</h1>
+            {jokeComponents}
         </div>
     )
 }
