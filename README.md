@@ -42,7 +42,7 @@ Run the command to install the project dependencies.
 <br>
 
 
-## Links: 🌐
+## 🌐 Links:
 ***Learn React for free - Scrimba Course:***<br>
 [<ins>Link to the course</ins>](https://scrimba.com/playlist/p7P5Hd)
 
